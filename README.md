@@ -7,4 +7,4 @@ Add more detail
 This are some examples
 
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rcgeos/geos/blob/main/test_geos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rcgeos/geos/blob/main/test_geos.ipynb)
